@@ -257,7 +257,7 @@ Primary use:
 .bg0 {background-color: #fff;}
 
 .bg-img1 {
-  background-position: center;
+  background-position: -230px 0;
   background-repeat: no-repeat;
   background-size: cover;
 }
